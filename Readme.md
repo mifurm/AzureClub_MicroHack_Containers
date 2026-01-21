@@ -1,6 +1,6 @@
-# 🚀 MicroHack: AppService to Container Apps
+# 🚀 MicroHack: From Virtual Machines to Container Apps
 
-**Modernizing Applications from Azure App Service to Container Apps with AI Integration**
+**Modernizing Applications from Virtual Machines to Container Apps with AI Integration**
 
 ![Azure Container Apps](https://img.shields.io/badge/Azure-Container%20Apps-blue) ![Azure AI](https://img.shields.io/badge/Azure-AI-green) ![Docker](https://img.shields.io/badge/Docker-Containers-orange)
 
